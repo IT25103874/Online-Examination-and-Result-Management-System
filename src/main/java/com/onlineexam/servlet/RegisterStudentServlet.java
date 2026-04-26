@@ -8,7 +8,7 @@ import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.*;
 
 @WebServlet("/registerStudent")
-
+//register servlet
 public class RegisterStudentServlet extends HttpServlet {
 
     protected void doPost(HttpServletRequest request,
